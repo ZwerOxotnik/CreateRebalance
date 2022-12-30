@@ -12,7 +12,7 @@ let startItems = [
 	MC("stone_shovel"), "carrier:glove", MC("oak_log", 48), MC("coal", 64),
 	MC("torch", 64), MC("apple", 64), MC("redstone", 32), MC("leather", 8),
 	MC("iron_ingot", 8), CR("andesite_alloy", 26), MC("minecart", 2), MC("rail", 128),
-	MC("green_bed"), MC("shield"), MC("crafting_table")
+	MC("green_bed"), MC("shield"), MC("crafting_table"), CR("super_glue")
 ]
 
 
