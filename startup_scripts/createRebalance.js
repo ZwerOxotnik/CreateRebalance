@@ -8,7 +8,7 @@ let MC = (id, x) => MOD("minecraft", id, x)
 let targetStackItems = [
 	MC("tuff"), MC("gravel"), MC("cobblestone"), MC("stone"), MC("diorite"),
 	MC("andesite"), MC("calcite"), MC("cobbled_deepslate"), MC("deepslate"),
-	MC("granite"), MC("netherrack")
+	MC("granite"), MC("netherrack"), CR("crimsite"), CR("limestone")
 ]
 let minStackItems = [MC("raw_iron"), MC("raw_gold"), MC("raw_copper"), CR("raw_zinc")]
 let arraySize = minStackItems.length
